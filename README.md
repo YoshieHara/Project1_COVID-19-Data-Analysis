@@ -23,7 +23,8 @@ The primary goal of this project is to unravel the stories within the data, stor
 <img width="412" alt="image" src="https://github.com/YoshieHara/Project1_COVID-19-Data-Analysis/assets/133894305/c536aea7-7e44-43c2-86ce-8497ef5c3a0b">  
   
 
-#### Observation: New South Wales exhibits the highest confirmed cases, contributing significantly to the overall caseload. Victoria stands out with the highest death toll, emphasizing the severity of the outbreak in that region.
+#### Observation: New South Wales exhibits the highest confirmed cases, contributing significantly to the overall caseload. Victoria stands out with the highest death toll, emphasizing the severity of the outbreak in that region.  
+-  
 
   
   
@@ -41,9 +42,11 @@ The primary goal of this project is to unravel the stories within the data, stor
 <img width="824" alt="image" src="https://github.com/YoshieHara/Project1_COVID-19-Data-Analysis/assets/133894305/9623c296-ce7e-4b15-ad9e-c949cfeaf2f8">  
   
 
-#### Observation: The countries with the highest confirmed cases include nations from different continents.Despite having high confirmed cases, the fatality rates vary among these countries. 
+#### Observation: The countries with the highest confirmed cases include nations from different continents.Despite having high confirmed cases, the fatality rates vary among these countries.   
+-  
 
-
+  
+  
 
 ## Conclusion
 The COVID-19 impact is diverse globally, with the top 10 countries in fatality rates representing various regions. Yemen has the highest rate, underlining regional differences.  
