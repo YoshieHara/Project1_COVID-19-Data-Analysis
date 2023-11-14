@@ -34,17 +34,14 @@ The primary goal of this project is to unravel the stories within the data, stor
 <img width="863" alt="image" src="https://github.com/YoshieHara/Project1_COVID-19-Data-Analysis/assets/133894305/7ef7a921-7f0c-45be-92dc-606390effd52">  
   
 
-#### Observation: The countries with the highest fatality rates are geographically diverse, representing regions from the Middle East (Yemen), Oceania (Vanuatu), North America (Mexico), South America (Peru), Africa (Sudan, Somalia), Europe (Belgium), and the Middle East (Syria).  
-
-While Yemen has the highest fatality rate among the top 10, there is a range of fatality rates among these countries, indicating variations in the impact of the COVID-19 pandemic on different regions.  
+#### Observation: The countries with the highest fatality rates are geographically diverse, representing regions from the Middle East (Yemen), Oceania (Vanuatu), North America (Mexico), South America (Peru), Africa (Sudan, Somalia), Europe (Belgium), and the Middle East (Syria).  While Yemen has the highest fatality rate among the top 10, there is a range of fatality rates among these countries, indicating variations in the impact of the COVID-19 pandemic on different regions.  
 
   
 ### Top 10 Confirmed Cases by Region  
 <img width="824" alt="image" src="https://github.com/YoshieHara/Project1_COVID-19-Data-Analysis/assets/133894305/9623c296-ce7e-4b15-ad9e-c949cfeaf2f8">  
   
 
-#### Observation: The countries with the highest confirmed cases include nations from different continents.
-Despite having high confirmed cases, the fatality rates vary among these countries. 
+#### Observation: The countries with the highest confirmed cases include nations from different continents.Despite having high confirmed cases, the fatality rates vary among these countries. 
 
 
 
