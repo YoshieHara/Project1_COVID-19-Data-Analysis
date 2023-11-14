@@ -24,7 +24,6 @@ The primary goal of this project is to unravel the stories within the data, stor
   
 
 #### Observation: New South Wales exhibits the highest confirmed cases, contributing significantly to the overall caseload. Victoria stands out with the highest death toll, emphasizing the severity of the outbreak in that region.  
--  
 
   
   
@@ -43,7 +42,7 @@ The primary goal of this project is to unravel the stories within the data, stor
   
 
 #### Observation: The countries with the highest confirmed cases include nations from different continents.Despite having high confirmed cases, the fatality rates vary among these countries.   
--  
+
 
   
   
